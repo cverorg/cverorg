@@ -1,4 +1,4 @@
-### 👋 CVER Inc.
+### 👋 CVER
 
 I build at **[@CVERInc](https://github.com/CVERInc)** — open-source tools we wrote for ourselves, now yours too. MIT, built to do their job and stay out of your way.
 
